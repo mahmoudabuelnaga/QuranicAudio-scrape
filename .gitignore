@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+best_novels.xlsx
+best_novels (copy).xlsx
+hyperLinks.xlsx
+
 # Distribution / packaging
 .Python
 build/
